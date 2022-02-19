@@ -1,1 +1,1 @@
-# PharmacyManagement
+# Pharmacy Management
